@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "vanheaven"
+  "author": "vanheaven",
+  "description": "Learning about npm"
 }
 
